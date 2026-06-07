@@ -1,7 +1,7 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No: 2122224100045
-# Name: Priya Dharshni S
+# Reg No: 2122225220007
+# Name: Akil S
 # Date: 20/05/2026
 
 
